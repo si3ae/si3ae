@@ -11,9 +11,9 @@ actionable signals.
 
 | Project | Status |
 |---|---|
+| [Dandi — AI Accounting Automation](https://github.com/si3ae/Dandi-AI_Accounting_Automation_System) | Working prototype · field-tested with 200 users; preparing a national policy-contest submission |
+| [BakerStreet — Cross-Border Fraud Detection AI](https://github.com/si3ae/Cross-Border_Fraud_Detection_AI) | Working demo (verifiable AML investigation; frozen-dataset, 3 cases) |
 | [Financial Intelligence Terminal](https://github.com/si3ae/Financial_Intelligence_Terminal) | Active development |
-| [Dandi — AI Accounting Automation](https://github.com/si3ae/Dandi-AI_Accounting_Automation_System) | Working prototype, field deployment in coordination with KOSME Busan branch |
-| [Global Shell-Tracker — Fraud Detection AI](https://github.com/si3ae/Cross-Border_Fraud_Detection_AI) | Architecture defined, Phase 1 implementation starting |
 
 ---
 
