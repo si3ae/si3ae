@@ -1,28 +1,11 @@
 # Sinae
 
-Financial AI Systems · LLM Pipelines · Anomaly Detection
+**Hardware & Robot security · Embedded systems for extreme environments**
 
-Building pipelines that turn unstructured financial data into 
-actionable signals.
+Working where CS, electrical engineering, and AI meet.
+Now: ROS2 robot security, low-power sensing for deep-sea observation.
 
----
+- [oceans-wake-sensor](https://github.com/si3ae/oceans-wake-sensor): low-power wake-up sensor for deep-sea nodes [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24050749.svg)](https://doi.org/10.5281/zenodo.24050749)
+- Earlier: financial AI ([BakerStreet](https://github.com/si3ae/BakerStreet), [Dandi](https://github.com/si3ae/Dandi), [Lookout](https://github.com/si3ae/Lookout))
 
-## Projects
-
-| Project | Status |
-|---|---|
-| [Dandi — AI Accounting Automation](https://github.com/si3ae/Dandi-AI_Accounting_Automation_System) | Working prototype · field-tested with 200 users; preparing a national policy-contest submission |
-| [BakerStreet — Cross-Border Fraud Detection AI](https://github.com/si3ae/Cross-Border_Fraud_Detection_AI) | Working demo (verifiable AML investigation; frozen-dataset, 3 cases) |
-| [Financial Intelligence Terminal](https://github.com/si3ae/Financial_Intelligence_Terminal) | Active development |
-
----
-
-## Focus Areas
-
-- Unstructured financial data pipelines (voice, OCR, documents)
-- Anomaly detection & risk signal modeling
-- Multi-asset / cross-border signal aggregation
-
----
-
-🌐 Working on Financial AI Systems
+[ORCID](https://orcid.org/0009-0006-7237-6228) · [LinkedIn](https://www.linkedin.com/in/sinae-hong-583306216)
